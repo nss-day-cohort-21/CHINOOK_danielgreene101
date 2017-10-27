@@ -1,0 +1,1 @@
+SELECT count(*) FROM InvoiceLine where invoiceId = 37;

@@ -1,0 +1,1 @@
+SELECT count(*) FROM InvoiceLine GROUP BY invoiceId;
